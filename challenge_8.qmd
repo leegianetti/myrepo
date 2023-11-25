@@ -1,0 +1,22 @@
+---
+title: "DACSS-603-challenge8"
+author: "Lee Gianetti"
+description: "Creating new quartofile for github version control"
+date: ""
+format: 
+  html: 
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  -challenge_8
+---
+
+```{r}
+
+
+```
+
+The last movie I saw in the theater was A Haunting in Venice"
